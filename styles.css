@@ -1,16 +1,14 @@
 #row row-cols-2{
-
     display: block;
     padding-top: 50px;
     background-color: antiquewhite;
-}
-.marcotarjeta{
+
+    .marcotarjeta{
     display: flex;
     margin-left: 25%;
     margin-top: 20px;
     width: 800px;
     height: 550px;
-    background-color: rgb(234, 230, 214);
     border: 0px solid;
 }
 .tarjeta{
